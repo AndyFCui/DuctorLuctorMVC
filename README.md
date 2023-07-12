@@ -1,4 +1,4 @@
-# CS 5010 Semester Project Milestone 4
+# CS 5010 Semester Project Final Milestone 
 
 This repo represents the coursework for CS 5010, the Spring 2022 Edition!
 
