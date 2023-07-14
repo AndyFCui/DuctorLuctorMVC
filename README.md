@@ -1,4 +1,4 @@
-# CS 5010 Semester Project Final Milestone 
+# Doctor Lucky java Jframe game
 
 This repo represents the coursework for CS 5010, the Spring 2022 Edition!
 
