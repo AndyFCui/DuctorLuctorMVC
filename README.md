@@ -139,11 +139,11 @@ P.S. All public method possess the details comment, its easy to use.
 * Max turn: 10
 * two robot, two human
 
-Game demo:
+### Game demo:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![image-20220425224545637](C:\Users\Andy Cui\AppData\Roaming\Typora\typora-user-images\image-20220425224545637.png)
+![doctorLucky](https://github.com/AndyFCui/DuctorLuctorMVC/assets/10085168/ce1724bd-733b-487e-bd11-e18257abff33)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
