@@ -23,6 +23,19 @@ This repo represents the coursework for CS 5010, the Spring 2022 Edition!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#### Project UML
+
+##### Model
+![image](https://github.com/AndyFCui/DuctorLuctorMVC/assets/10085168/2dfbc5ec-02c2-4168-8184-dd41803268f7)
+
+##### Controler
+![image](https://github.com/AndyFCui/DuctorLuctorMVC/assets/10085168/e2fdc002-514e-4bc3-8ce2-aaad5eeeddb6)
+
+
+##### View
+![image](https://github.com/AndyFCui/DuctorLuctorMVC/assets/10085168/c30453d2-c81a-43ba-907e-ddae78859bc1)
+
+
 
 ### Project performance 
 
